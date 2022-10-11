@@ -1,4 +1,6 @@
 item {
   id: 1
-  name: 'raccoon'
+  name: 'pipe'
+  id: 2
+  name: 'concrete'
 }
